@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="transactions-backend" />
+        <module name="payments-backend" />
+        <module name="payments-frontend" />
+        <module name="transactions-frontend" />
+        <module name="transactions-shared" />
+        <module name="transactions-frontend-ui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="payments" target="11" />
+      <module name="payments-backend" target="11" />
+      <module name="payments-frontend" target="11" />
+      <module name="transactions" target="11" />
+      <module name="transactions-backend" target="11" />
+      <module name="transactions-frontend" target="11" />
+      <module name="transactions-frontend-ui" target="11" />
+      <module name="transactions-shared" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="transactions-frontend" options="-Xlint:all" />
+      <module name="transactions-frontend-ui" options="-Xlint:all" />
+    </option>
+  </component>
+</project>

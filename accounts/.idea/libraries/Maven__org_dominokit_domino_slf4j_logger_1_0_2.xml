@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dominokit:domino-slf4j-logger:1.0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-slf4j-logger/1.0.2/domino-slf4j-logger-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-slf4j-logger/1.0.2/domino-slf4j-logger-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-slf4j-logger/1.0.2/domino-slf4j-logger-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

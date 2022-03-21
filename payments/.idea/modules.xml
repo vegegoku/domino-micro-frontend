@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/payments.iml" filepath="$PROJECT_DIR$/.idea/payments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payments-backend/payments-backend.iml" filepath="$PROJECT_DIR$/payments-backend/payments-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payments-frontend/payments-frontend.iml" filepath="$PROJECT_DIR$/payments-frontend/payments-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactions/transactions.iml" filepath="$PROJECT_DIR$/transactions/transactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactions/transactions-backend/transactions-backend.iml" filepath="$PROJECT_DIR$/transactions/transactions-backend/transactions-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactions/transactions-frontend/transactions-frontend.iml" filepath="$PROJECT_DIR$/transactions/transactions-frontend/transactions-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactions/transactions-frontend-ui/transactions-frontend-ui.iml" filepath="$PROJECT_DIR$/transactions/transactions-frontend-ui/transactions-frontend-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactions/transactions-shared/transactions-shared.iml" filepath="$PROJECT_DIR$/transactions/transactions-shared/transactions-shared.iml" />
+    </modules>
+  </component>
+</project>

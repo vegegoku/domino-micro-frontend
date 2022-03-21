@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shell-backend" />
+        <module name="shell-shared" />
+        <module name="shell-frontend" />
+        <module name="onlinebanking-frontend" />
+        <module name="onlinebanking-backend" />
+        <module name="shell-frontend-ui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="onlinebanking" target="11" />
+      <module name="onlinebanking-backend" target="11" />
+      <module name="onlinebanking-frontend" target="11" />
+      <module name="shell" target="11" />
+      <module name="shell-backend" target="11" />
+      <module name="shell-frontend" target="11" />
+      <module name="shell-frontend-ui" target="11" />
+      <module name="shell-shared" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="shell-frontend" options="-Xlint:all" />
+      <module name="shell-frontend-ui" options="-Xlint:all" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Development" type="CompoundRunConfigurationType">
+    <toRun name="super-dev-mode" type="MavenRunConfiguration" />
+    <toRun name="onlinebanking-dev" type="Application" />
+    <method v="2" />
+  </configuration>
+</component>

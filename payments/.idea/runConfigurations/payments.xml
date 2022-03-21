@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="payments" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="org.dominokit.domino.api.server.DominoLauncher" />
+    <module name="payments-backend" />
+    <option name="PROGRAM_PARAMETERS" value="run org.dominokit.domino.api.server.StartupVerticle -conf target/classes/config.json -Dvertx.options.fileResolverCachingEnabled=false -Ddomino.webroot.location=../payments-frontend/target/payments-frontend-1.0-SNAPSHOT/payments" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/payments-backend" />
+    <extension name="net.ashald.envfile">
+      <option name="IS_ENABLED" value="false" />
+      <option name="IS_SUBST" value="false" />
+      <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+      <option name="IS_IGNORE_MISSING_FILES" value="false" />
+      <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+      <ENTRIES>
+        <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+      </ENTRIES>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

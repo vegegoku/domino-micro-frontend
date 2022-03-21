@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dominokit:domino-mvp-resteasy-plugin:MF-HEAD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-mvp-resteasy-plugin/MF-HEAD-SNAPSHOT/domino-mvp-resteasy-plugin-MF-HEAD-20220321.071706-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-mvp-resteasy-plugin/MF-HEAD-SNAPSHOT/domino-mvp-resteasy-plugin-MF-HEAD-20220321.071706-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-mvp-resteasy-plugin/MF-HEAD-SNAPSHOT/domino-mvp-resteasy-plugin-MF-HEAD-20220321.071706-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

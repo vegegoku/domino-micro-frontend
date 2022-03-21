@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/onlinebanking.iml" filepath="$PROJECT_DIR$/.idea/onlinebanking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlinebanking-backend/onlinebanking-backend.iml" filepath="$PROJECT_DIR$/onlinebanking-backend/onlinebanking-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlinebanking-frontend/onlinebanking-frontend.iml" filepath="$PROJECT_DIR$/onlinebanking-frontend/onlinebanking-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell/shell.iml" filepath="$PROJECT_DIR$/shell/shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell/shell-backend/shell-backend.iml" filepath="$PROJECT_DIR$/shell/shell-backend/shell-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell/shell-frontend/shell-frontend.iml" filepath="$PROJECT_DIR$/shell/shell-frontend/shell-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell/shell-frontend-ui/shell-frontend-ui.iml" filepath="$PROJECT_DIR$/shell/shell-frontend-ui/shell-frontend-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell/shell-shared/shell-shared.iml" filepath="$PROJECT_DIR$/shell/shell-shared/shell-shared.iml" />
+    </modules>
+  </component>
+</project>

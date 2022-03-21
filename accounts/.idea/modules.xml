@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/account/account.iml" filepath="$PROJECT_DIR$/account/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/account/account-backend/account-backend.iml" filepath="$PROJECT_DIR$/account/account-backend/account-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/account/account-frontend/account-frontend.iml" filepath="$PROJECT_DIR$/account/account-frontend/account-frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/account/account-frontend-ui/account-frontend-ui.iml" filepath="$PROJECT_DIR$/account/account-frontend-ui/account-frontend-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/account/account-shared/account-shared.iml" filepath="$PROJECT_DIR$/account/account-shared/account-shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/accounts.iml" filepath="$PROJECT_DIR$/.idea/accounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accounts-backend/accounts-backend.iml" filepath="$PROJECT_DIR$/accounts-backend/accounts-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/accounts-frontend/accounts-frontend.iml" filepath="$PROJECT_DIR$/accounts-frontend/accounts-frontend.iml" />
+    </modules>
+  </component>
+</project>

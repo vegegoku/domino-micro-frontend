@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dominokit:domino-mvp-api-client:sources:HEAD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-mvp-api-client/HEAD-SNAPSHOT/domino-mvp-api-client-HEAD-20220117.115832-28-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-mvp-api-client/HEAD-SNAPSHOT/domino-mvp-api-client-HEAD-20220117.115832-28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-mvp-api-client/HEAD-SNAPSHOT/domino-mvp-api-client-HEAD-20220117.115832-28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dominokit:domino-mvp-client-test:MF-HEAD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-mvp-client-test/MF-HEAD-SNAPSHOT/domino-mvp-client-test-MF-HEAD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-mvp-client-test/MF-HEAD-SNAPSHOT/domino-mvp-client-test-MF-HEAD-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-mvp-client-test/MF-HEAD-SNAPSHOT/domino-mvp-client-test-MF-HEAD-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

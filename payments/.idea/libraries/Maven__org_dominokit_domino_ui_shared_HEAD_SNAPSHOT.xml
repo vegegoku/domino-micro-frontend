@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dominokit:domino-ui-shared:HEAD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-ui-shared/HEAD-SNAPSHOT/domino-ui-shared-HEAD-20220319.083812-110.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-ui-shared/HEAD-SNAPSHOT/domino-ui-shared-HEAD-20220319.083812-110-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dominokit/domino-ui-shared/HEAD-SNAPSHOT/domino-ui-shared-HEAD-20220319.083812-110-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
